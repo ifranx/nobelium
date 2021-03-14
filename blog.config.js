@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'CRAIGARY',
+  title: 'Y',
   description: 'This gonna be an awesome website.',
   author: 'Craig Hart',
   email: 'i@craigary.net',
